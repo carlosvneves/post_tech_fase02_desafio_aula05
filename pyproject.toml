@@ -2,7 +2,7 @@
 name = "desafio-fase02-aula05"
 version = "0.1.0"
 description = ""
-authors = ["juno@allienware <carlos.vneves@gmail.com>"]
+authors = "Carlos Neves <carlos.vneves@gmail.com>"
 readme = "README.md"
 packages = [{include = "desafio_fase02_aula05", from = "src"}]
 
